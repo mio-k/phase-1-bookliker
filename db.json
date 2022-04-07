@@ -16,7 +16,8 @@
           "id": 8,
           "username": "maverick"
         }
-      ]
+      ],
+      "user": "mio"
     },
     {
       "id": 2,
@@ -41,8 +42,13 @@
         {
           "id": 1,
           "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
-      ]
+      ],
+      "user": null
     },
     {
       "id": 3,
@@ -134,8 +140,13 @@
         {
           "id": 5,
           "username": "feels-like-summer"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
-      ]
+      ],
+      "user": null
     },
     {
       "id": 8,
@@ -178,6 +189,10 @@
         {
           "id": 5,
           "username": "feels-like-summer"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -197,7 +212,8 @@
           "id": 10,
           "username": "macejkovic"
         }
-      ]
+      ],
+      "user": "mio"
     },
     {
       "id": 11,
@@ -214,8 +230,13 @@
         {
           "id": 10,
           "username": "macejkovic"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
-      ]
+      ],
+      "user": null
     }
   ],
   "users": [
